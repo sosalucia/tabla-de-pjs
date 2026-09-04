@@ -2,7 +2,7 @@
 
 |PERSONAJE | POSICION | ARMA | ROL EQUIPO |
 
-| - | - | - |
+| - | - | - | - |
 
 | Lynx | Espadachin, Maestro de Batalla. | Espada | Lider |
 
